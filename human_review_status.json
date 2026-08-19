@@ -1,0 +1,13 @@
+{
+  "status": "pending_review",
+  "review_gate": "Report is a draft until a human reviewer sets --approve or updates this status.",
+  "validation": {
+    "passed": true,
+    "missing_required_evidence": [],
+    "missing_required_sections": [],
+    "missing_required_claims": [],
+    "mismatched_core_claims": [],
+    "banned_phrases_found": [],
+    "failed_quality_checks": []
+  }
+}
